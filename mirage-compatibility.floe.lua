@@ -2,7 +2,8 @@ local library = floe.new_library({
     name = "Mirage Compatibility",
     tagline = "Files for Mirage compatibility",
     author = "FrozenPlain",
-    url = "https://github.com/Floe-Synth/Floe-Mirage-Compat",
+    url = "https://frozenplain.com/",
+    description = "This library contains files that are needed for compatibility with Mirage.",
     minor_version = 1,
 })
 
