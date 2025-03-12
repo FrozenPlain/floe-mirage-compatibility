@@ -31,7 +31,7 @@ local irs = {
 for _, ir in ipairs(irs) do
     floe.add_ir(library, {
         name = ir,
-        path = "irs/" .. ir .. ".flac",
+        path = "IRs/" .. ir .. ".flac",
     })
 end
 
