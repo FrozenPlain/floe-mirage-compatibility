@@ -4,6 +4,7 @@ local library = floe.new_library({
     author = "FrozenPlain",
     url = "https://frozenplain.com/",
     description = "This library contains files that are needed for compatibility with Mirage.",
+    icon_image_path = "Images/icon.png",
     minor_version = 1,
 })
 
